@@ -1,0 +1,22 @@
+From 828fa3a97a14c6a07cbaa0ae53f7f60c67d1baa9 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?=EA=B9=80=ED=83=9C=ED=98=B8?= <ktttttk@nate.com>
+Date: Fri, 29 Dec 2017 12:58:22 +0900
+Subject: [PATCH] =?UTF-8?q?1.=ED=86=A0=EB=81=BC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ readme.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/readme.txt b/readme.txt
+index e69de29..ec18613 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -0,0 +1 @@
++1.≈‰≥¢
+\ No newline at end of file
+-- 
+2.15.1.windows.2
+
